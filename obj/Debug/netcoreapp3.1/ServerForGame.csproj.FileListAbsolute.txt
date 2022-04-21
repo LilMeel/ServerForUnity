@@ -1,0 +1,14 @@
+C:\Users\gosha\source\repos\ServerForGame\obj\Debug\netcoreapp3.1\ServerForGame.csproj.AssemblyReference.cache
+C:\Users\gosha\source\repos\ServerForGame\obj\Debug\netcoreapp3.1\ServerForGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gosha\source\repos\ServerForGame\obj\Debug\netcoreapp3.1\ServerForGame.AssemblyInfoInputs.cache
+C:\Users\gosha\source\repos\ServerForGame\obj\Debug\netcoreapp3.1\ServerForGame.AssemblyInfo.cs
+C:\Users\gosha\source\repos\ServerForGame\obj\Debug\netcoreapp3.1\ServerForGame.csproj.CoreCompileInputs.cache
+C:\Users\gosha\source\repos\ServerForGame\bin\Debug\netcoreapp3.1\ServerForGame.exe
+C:\Users\gosha\source\repos\ServerForGame\bin\Debug\netcoreapp3.1\ServerForGame.deps.json
+C:\Users\gosha\source\repos\ServerForGame\bin\Debug\netcoreapp3.1\ServerForGame.runtimeconfig.json
+C:\Users\gosha\source\repos\ServerForGame\bin\Debug\netcoreapp3.1\ServerForGame.runtimeconfig.dev.json
+C:\Users\gosha\source\repos\ServerForGame\bin\Debug\netcoreapp3.1\ServerForGame.dll
+C:\Users\gosha\source\repos\ServerForGame\bin\Debug\netcoreapp3.1\ServerForGame.pdb
+C:\Users\gosha\source\repos\ServerForGame\obj\Debug\netcoreapp3.1\ServerForGame.dll
+C:\Users\gosha\source\repos\ServerForGame\obj\Debug\netcoreapp3.1\ServerForGame.pdb
+C:\Users\gosha\source\repos\ServerForGame\obj\Debug\netcoreapp3.1\ServerForGame.genruntimeconfig.cache
